@@ -54,6 +54,7 @@ background-size: cover;
 
 select option {
     background-color: rgb(133, 205, 253);
+    color: white;
 }
 
 header img {
